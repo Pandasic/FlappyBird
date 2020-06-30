@@ -1,0 +1,5 @@
+numpy
+paddle
+parl
+pygame
+
