@@ -1,0 +1,33 @@
+[06-30 08:58:30 MainThread @machine_info.py:88] Cannot find available GPU devices, using CPU now.
+[06-30 08:58:30 MainThread @machine_info.py:88] Cannot find available GPU devices, using CPU now.
+[06-30 08:59:03 MainThread @machine_info.py:88] Cannot find available GPU devices, using CPU now.
+[06-30 09:02:30 MainThread @train.py:150] episode:6600    e_greed:0.0430949999999931   test_reward:-4.6    total_reward:-161.0
+[06-30 09:04:30 MainThread @train.py:150] episode:6650    e_greed:0.04002799999999003   test_reward:-3.6    total_reward:-235.0
+[06-30 09:20:39 MainThread @train.py:150] episode:6700    e_greed:0.026814999999976816   test_reward:78.4    total_reward:28.0
+[06-30 09:31:47 MainThread @train.py:150] episode:6750    e_greed:0.01   test_reward:-2.8    total_reward:202.0
+[06-30 09:34:46 MainThread @train.py:150] episode:6800    e_greed:0.01   test_reward:-1.0    total_reward:-198.0
+[06-30 09:47:15 MainThread @train.py:150] episode:6850    e_greed:0.01   test_reward:21.8    total_reward:135.0
+[06-30 09:50:38 MainThread @train.py:150] episode:6900    e_greed:0.01   test_reward:-2.8    total_reward:-177.0
+[06-30 09:54:26 MainThread @train.py:150] episode:6950    e_greed:0.01   test_reward:-4.0    total_reward:-154.0
+[06-30 09:58:35 MainThread @train.py:150] episode:7000    e_greed:0.01   test_reward:-3.0    total_reward:-145.0
+[06-30 10:05:40 MainThread @train.py:150] episode:7050    e_greed:0.01   test_reward:23.4    total_reward:-132.0
+[06-30 10:18:48 MainThread @train.py:150] episode:7100    e_greed:0.01   test_reward:2.6    total_reward:272.0
+[06-30 10:23:59 MainThread @train.py:150] episode:7150    e_greed:0.01   test_reward:-3.2    total_reward:-77.0
+[06-30 10:31:02 MainThread @train.py:150] episode:7200    e_greed:0.01   test_reward:2.0    total_reward:-13.0
+[06-30 10:41:14 MainThread @train.py:150] episode:7250    e_greed:0.01   test_reward:-4.0    total_reward:172.0
+[06-30 10:49:16 MainThread @train.py:150] episode:7300    e_greed:0.01   test_reward:-4.0    total_reward:61.0
+[06-30 10:53:53 MainThread @train.py:150] episode:7350    e_greed:0.01   test_reward:1.4    total_reward:-124.0
+[06-30 11:00:42 MainThread @train.py:150] episode:7400    e_greed:0.01   test_reward:-2.0    total_reward:1.0
+[06-30 11:05:44 MainThread @train.py:150] episode:7450    e_greed:0.01   test_reward:-4.0    total_reward:-86.0
+[06-30 11:26:06 MainThread @train.py:150] episode:7500    e_greed:0.01   test_reward:71.0    total_reward:271.0
+[06-30 11:34:50 MainThread @train.py:150] episode:7550    e_greed:0.01   test_reward:17.4    total_reward:3.0
+[06-30 11:48:05 MainThread @train.py:150] episode:7600    e_greed:0.01   test_reward:-0.6    total_reward:296.0
+[06-30 11:53:34 MainThread @train.py:150] episode:7650    e_greed:0.01   test_reward:-4.0    total_reward:-71.0
+[06-30 11:59:36 MainThread @train.py:150] episode:7700    e_greed:0.01   test_reward:12.6    total_reward:-127.0
+[06-30 12:13:18 MainThread @train.py:150] episode:7750    e_greed:0.01   test_reward:-5.0    total_reward:339.0
+[06-30 12:16:46 MainThread @train.py:150] episode:7800    e_greed:0.01   test_reward:-5.0    total_reward:-159.0
+[06-30 12:20:34 MainThread @train.py:150] episode:7850    e_greed:0.01   test_reward:-3.6    total_reward:-156.0
+[06-30 12:30:31 MainThread @train.py:150] episode:7900    e_greed:0.01   test_reward:-2.6    total_reward:144.0
+[06-30 12:46:24 MainThread @train.py:150] episode:7950    e_greed:0.01   test_reward:0.4    total_reward:413.0
+[06-30 12:53:08 MainThread @train.py:150] episode:8000    e_greed:0.01   test_reward:-4.0    total_reward:-8.0
+[06-30 12:55:11 MainThread @train.py:150] episode:8050    e_greed:0.01   test_reward:-4.6    total_reward:-227.
