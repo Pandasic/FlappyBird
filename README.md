@@ -1,4 +1,4 @@
-# 基于DQN的平板小球
+# 基于DQN的FlappyBird
 
 > 强化学习打卡营 终级项目复现
 环境地址为：[https://github.com/ntasfi/PyGame-Learning-Environment](https://github.com/ntasfi/PyGame-Learning-Environment)
