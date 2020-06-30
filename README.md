@@ -43,4 +43,6 @@ python ./Project/test.py
 ## 效果展示
 ![flappybird](./gif/flappybird1.gif)
 
+![flappybird](./gif/flappybird2.gif)
+
 > 模型还没训练的很好 一般能飞过30个左右 代码仅供参考 == 
