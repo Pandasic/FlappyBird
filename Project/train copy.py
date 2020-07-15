@@ -1,4 +1,3 @@
-#该文件为继续训练后的修改文件
 import parl
 from parl import layers
 import paddle.fluid as fluid
@@ -131,7 +130,7 @@ while len(rpm) < MEMORY_WARMUP_SIZE:
 max_episode = 50000
 
 # 开始训练
-episode = 0
+episode = 8350
 eval_time = 0
 
 while episode < max_episode:  # 训练max_episode个回合，test部分不计算入episode数量

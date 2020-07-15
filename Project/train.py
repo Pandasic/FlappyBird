@@ -1,3 +1,4 @@
+#该文件为继续训练后的修改文件
 import parl
 from parl import layers
 import paddle.fluid as fluid
@@ -45,7 +46,7 @@ def remapAction(act):
     if act == 1:
         return 119
 
-episode = 8200
+episode = 0
 eval_time = 0
 
 maxScore = 0
@@ -130,8 +131,8 @@ agent = Agent(
     algorithm,
     obs_dim=obs_shape[0],
     act_dim=action_dim,
-    #e_greed=0.5,  # 有一定概率随机选取动作，探索
-    e_greed=0.05,  # 有一定概率随机选取动作，探索
+    e_greed=0.5,  # 有一定概率随机选取动作，探索
+    #e_greed=0.05,  # 有一定概率随机选取动作，探索
     e_greed_decrement=10e-7)  # 随着训练逐步收敛，探索的程度慢慢降低
 
 # 加载缓存模型

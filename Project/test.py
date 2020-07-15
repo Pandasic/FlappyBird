@@ -86,7 +86,7 @@ agent = Agent(
     e_greed_decrement=10e-7)  # 随着训练逐步收敛，探索的程度慢慢降低
 
 # 加载缓存模型
-save_path = './Model/dqn_model.ckpt'
+save_path = './Model/dqn_model_8250.ckpt'
 if os.path.exists(save_path):
     agent.restore(save_path)
 
